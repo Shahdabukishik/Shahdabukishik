@@ -145,17 +145,15 @@ A platform connecting technicians and clients.
 
 ## 📊 GitHub Stats
 
-![Shahd's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shahdabukishik&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shahdabukishik&show_icons=true&theme=tokyonight)
 
----
+## 🧠 Top Languages
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahdabukishik&layout=compact&theme=tokyonight)
 
----
----
+## 🔥 GitHub Streak
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=Shahdabukishik&theme=tokyonight)
-
----
-
 # ✨ Fun Fact
 
 I enjoy transforming ideas into real-world applications and continuously learning new technologies through projects, hackathons, and collaborative development.
