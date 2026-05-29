@@ -150,6 +150,10 @@ A platform connecting technicians and clients.
   </a>
 </p>
 
+<a href="mailto:shahdabukishk48@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
 ---
 ## 📊 GitHub Stats
 
@@ -162,6 +166,7 @@ A platform connecting technicians and clients.
 ## 🧠 Top Languages
 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shahdabukishik&layout=compact&theme=tokyonight)
+
 
 ---
 # ✨ Fun Fact
