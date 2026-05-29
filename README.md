@@ -6,7 +6,7 @@ Passionate about building modern web and mobile applications using scalable tech
 
 * 🎓 Software Engineering Student at An-Najah National University
 * 💻 Interested in Full-Stack Development & Backend Engineering
-* 🚀 Building real-world projects with React, Node.js, Laravel, PostgreSQL, and React Native
+* 🚀 Building real-world projects with React, Laravel, PostgreSQL, and React Native
 * 🌱 Currently improving my backend, system design, and real-time application development skills
 
 ---
@@ -73,22 +73,6 @@ Developed during Innovate IT Hackathon 2026.
 
 `React` `TypeScript` `Node.js` `Express.js` `Supabase` `PostgreSQL`
 
----
-
-## 💬 Discord Clone
-
-Real-time messaging application inspired by Discord.
-
-### Features
-
-* Real-time chat using Socket.io
-* Authentication system
-* Multiple chat channels
-* Responsive modern UI
-
-### Technologies
-
-`React` `Express.js` `MongoDB` `Socket.io`
 
 ---
 
@@ -126,13 +110,21 @@ A platform connecting technicians and clients.
 
 ---
 
-# 📈 Currently Learning
+## 💬 Discord Clone
 
-* Backend Architecture
-* System Design
-* Real-Time Applications
-* API Security
-* Clean Code Practices
+Real-time messaging application inspired by Discord.
+
+### Features
+
+* Real-time chat using Socket.io
+* Authentication system
+* Multiple chat channels
+* Responsive modern UI
+
+### Technologies
+
+`React` `Express.js` `MongoDB` `Socket.io`
+
 
 ---
 
