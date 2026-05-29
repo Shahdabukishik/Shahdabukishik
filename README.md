@@ -36,7 +36,7 @@ Passionate about building modern web and mobile applications using scalable tech
 
 ## Backend & Database
 
-![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge\&logo=node.js)
+
 ![Express.js](https://img.shields.io/badge/Express.js-black?style=for-the-badge\&logo=express)
 ![Laravel](https://img.shields.io/badge/Laravel-black?style=for-the-badge\&logo=laravel)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge\&logo=postgresql)
