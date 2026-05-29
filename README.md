@@ -143,12 +143,9 @@ A platform connecting technicians and clients.
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
-```md
-يمكنك إضافة GitHub stats لاحقًا باستخدام:
-https://github-readme-stats.vercel.app
-```
+![Shahd's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shahdabukishik&show_icons=true&theme=tokyonight)
 
 ---
 
